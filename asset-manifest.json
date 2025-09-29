@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Funsho-Adedokun/camera-app.git/static/css/main.f2e60824.css",
+    "main.js": "/Funsho-Adedokun/camera-app.git/static/js/main.d5da5c09.js",
+    "index.html": "/Funsho-Adedokun/camera-app.git/index.html",
+    "main.f2e60824.css.map": "/Funsho-Adedokun/camera-app.git/static/css/main.f2e60824.css.map",
+    "main.d5da5c09.js.map": "/Funsho-Adedokun/camera-app.git/static/js/main.d5da5c09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2e60824.css",
+    "static/js/main.d5da5c09.js"
+  ]
+}
